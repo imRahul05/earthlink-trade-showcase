@@ -64,7 +64,7 @@ const ContactPreview = () => {
                   <ArrowRight className="w-4 h-4 ml-2" />
                 </Link>
               </Button>
-              <Button variant="outline" size="lg" asChild>
+              <Button variant="hero" size="lg" asChild>
                 <Link to="/products">Browse Products</Link>
               </Button>
             </div>
